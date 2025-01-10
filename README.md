@@ -48,4 +48,6 @@ Here are some of the problems I've solved:
 Contributions are welcome! If you have any improvements or additional solutions, feel free to open a pull request. Please ensure your code follows the repository's coding standards and includes comments for clarity.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
